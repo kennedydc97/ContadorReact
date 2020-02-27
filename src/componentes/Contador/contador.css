@@ -1,0 +1,18 @@
+.contador-titulo{
+    text-align: center;
+}
+
+
+.contador-aumentar{
+    border: none;
+    background-color: #11ff22;
+    padding: 15px;
+    margin-left: -8px;
+}
+
+.contador-diminuir{
+    padding: 15px;
+    background-color: red;
+    border: none;
+    margin-left: 15px;
+}
